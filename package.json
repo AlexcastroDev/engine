@@ -2,6 +2,7 @@
   "name": "dom-builder",
   "version": "0.0.0",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "dev:example": "nx run example:dev",
     "build:example": "nx run example:build",
